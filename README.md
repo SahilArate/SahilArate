@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJxeWsxbTJ5MzN5aTU3ZGZ6Mm5qOXA4a3oya2RnNmE4eGZ6dmQ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 <div align="center">
@@ -130,14 +130,6 @@ const sahil = {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SahilArate&repo=PROJECT_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/SahilArate/PROJECT_NAME_1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SahilArate&repo=PROJECT_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/SahilArate/PROJECT_NAME_2)
-
-</div>
 
 ---
 
@@ -149,22 +141,7 @@ const sahil = {
 
 ---
 
-## 🐍 Watch My Contribution Snake Eat My Contributions!
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilArate/SahilArate/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilArate/SahilArate/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SahilArate/SahilArate/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-> **Note:** To enable the snake animation, you need to:
-> 1. Create a repository named `SahilArate` (same as your username)
-> 2. Add a `.github/workflows/snake.yml` file with the snake generation action
-> 3. The snake will appear after the action runs successfully
-
----
 
 ## 💭 Random Dev Quote
 
@@ -174,18 +151,8 @@ const sahil = {
 
 ---
 
-## 🎵 Currently Vibing To
 
-<div align="center">
-  
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
-</div>
-
-> **Note:** To enable Spotify widget:
-> 1. Connect your Spotify account at [Novatorem](https://github.com/novatorem/novatorem)
-> 2. Replace `YOUR_SPOTIFY_ID` with your actual Spotify user ID
-> 3. Deploy to Vercel and update the link
 
 ---
 

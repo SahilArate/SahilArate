@@ -33,8 +33,8 @@ const sahil = {
     role: "Full Stack Developer",
     code: ["Java", "JavaScript", "C", "SQL"],
     technologies: {
-        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "JavaScript"],
-        backEnd: ["Node.js", "Express"],
+        frontEnd: ["React", "Next.js", "Typescript", "HTML5", "CSS3", "JavaScript"],
+        backEnd: ["Node.js", "Express", "Go"],
         databases: ["MongoDB", "MySQL", "SQLite"],
         cloud: ["AWS Cloud Computing"],
         devOps: ["Docker", "AWS", "Linux", "Git"],

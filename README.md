@@ -34,8 +34,9 @@
         font-size="13" fill="#3B82F6">{ building scalable systems · exploring AI · open to opportunities }</text>
 </svg>
 
+<br/>
 <!-- CODER ANIMATION — permanent GitHub CDN URLs, never expire -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coder animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="coder animation"/>
 
 </div>
 
@@ -163,52 +164,6 @@ const sahil: Developer = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 [YOUR-REPO-1](https://github.com/SahilArate/YOUR-REPO-1) — one-line tagline here
-
-> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
-
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
----
-
-### 📌 [YOUR-REPO-2](https://github.com/SahilArate/YOUR-REPO-2) — one-line tagline here
-
-> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
-
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 📌 [YOUR-REPO-3](https://github.com/SahilArate/YOUR-REPO-3) — one-line tagline here
-
-> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
-
-![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### 📌 [YOUR-REPO-4](https://github.com/SahilArate/YOUR-REPO-4) — one-line tagline here
-
-> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
-
-![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 

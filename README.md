@@ -1,31 +1,63 @@
+<!-- HEADER BANNER — pure inline SVG, no external service, always renders -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=200&section=header&text=Sahil%20Arate&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=18&descAlignY=75&animation=fadeIn" />
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0f0c29"/>
+      <stop offset="50%"  stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <!-- background -->
+  <rect width="900" height="180" rx="16" fill="url(#bg)"/>
+  <!-- top accent line -->
+  <rect y="0" width="900" height="4" rx="2" fill="url(#line)"/>
+  <!-- bottom accent line -->
+  <rect y="176" width="900" height="4" rx="2" fill="url(#line)"/>
+  <!-- decorative circles -->
+  <circle cx="820" cy="40"  r="55" fill="#3B82F6" fill-opacity="0.08"/>
+  <circle cx="80"  cy="140" r="45" fill="#8B5CF6" fill-opacity="0.08"/>
+  <circle cx="450" cy="160" r="30" fill="#06B6D4" fill-opacity="0.06"/>
+  <!-- name -->
+  <text x="450" y="82" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="700" fill="#FFFFFF" letter-spacing="2">Sahil Arate</text>
+  <!-- subtitle -->
+  <text x="450" y="118" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="400" fill="#94A3B8">Full-Stack Developer  •  Cloud &amp; DevOps Enthusiast  •  Java + TypeScript</text>
+  <!-- bottom tag -->
+  <text x="450" y="152" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#3B82F6">{ building scalable systems · exploring AI · open to opportunities }</text>
+</svg>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Java+%2B+TypeScript+Full-Stack+Developer+%E2%98%95;Building+Scalable+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;Kafka+%7C+Docker+%7C+AWS+%7C+Microservices+%F0%9F%9A%80;Exploring+AI+Integration+%F0%9F%A4%96;Open+to+Exciting+SDE+Opportunities+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=620&lines=Java+%2B+TypeScript+Full-Stack+Developer+%E2%98%95;Building+Scalable+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;Kafka+%7C+Docker+%7C+AWS+%7C+Microservices+%F0%9F%9A%80;Exploring+AI+%26+LLM+Integration+%F0%9F%A4%96;Open+to+Exciting+SDE+Opportunities+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sahil-arate-ba9a14254/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://sahil-portfolio-orpin.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/arate_sahil/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SahilArate&label=Profile+Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SahilArate&label=Profile+Views&color=3B82F6&style=for-the-badge"/>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding Animation" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coder at work" width="360"
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
 const sahil: Developer = {
@@ -52,10 +84,10 @@ const sahil: Developer = {
 ### 🔥 What I'm Up To
 
 - 🔭 Building production-grade apps with **Java, Spring Boot & Node.js**
-- 🌱 Deepening skills in **Cloud Architecture** & **Microservices**
-- 🤖 Exploring **AI / LLM integration** in full-stack apps
-- 💡 Practicing **System Design** & sharpening **DSA**
-- 🚀 Mastering **DevOps**, **CI/CD** & **Docker + AWS** deployments
+- 🌱 Deepening expertise in **Cloud Architecture** & **Microservices**
+- 🤖 Integrating **AI / LLMs** into full-stack applications
+- 💡 Sharpening **System Design** & **DSA** skills
+- 🚀 Mastering **DevOps** — Docker, CI/CD & AWS deployments
 
 ---
 
@@ -126,24 +158,26 @@ const sahil: Developer = {
 ## 🚀 Featured Projects
 
 <!-- ═══════════════════════════════════════════════════════════
-     INSTRUCTIONS: Replace REPO-NAME, tagline, description & badge 
-     tech stacks below with your actual pinned repos.
-     ═══════════════════════════════════════════════════════════ -->
+  Replace YOUR-REPO-X with your actual pinned repo names.
+  Fill in the tagline and description from each repo.
+  Swap badge stacks to match the real tech you used.
+═══════════════════════════════════════════════════════════ -->
 
-### 📌 [YOUR-REPO-1](https://github.com/SahilArate/YOUR-REPO-1) — Short one-line tagline
+### 📌 [YOUR-REPO-1](https://github.com/SahilArate/YOUR-REPO-1) — one-line tagline here
 
-> Describe what problem it solves, what users can do with it, and what makes it interesting technically. Two sentences max.
+> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 📌 [YOUR-REPO-2](https://github.com/SahilArate/YOUR-REPO-2) — Short one-line tagline
+### 📌 [YOUR-REPO-2](https://github.com/SahilArate/YOUR-REPO-2) — one-line tagline here
 
-> Describe what problem it solves, what users can do with it, and what makes it interesting technically. Two sentences max.
+> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
 
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -152,20 +186,20 @@ const sahil: Developer = {
 
 ---
 
-### 📌 [YOUR-REPO-3](https://github.com/SahilArate/YOUR-REPO-3) — Short one-line tagline
+### 📌 [YOUR-REPO-3](https://github.com/SahilArate/YOUR-REPO-3) — one-line tagline here
 
-> Describe what problem it solves, what users can do with it, and what makes it interesting technically. Two sentences max.
+> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-### 📌 [YOUR-REPO-4](https://github.com/SahilArate/YOUR-REPO-4) — Short one-line tagline
+### 📌 [YOUR-REPO-4](https://github.com/SahilArate/YOUR-REPO-4) — one-line tagline here
 
-> Describe what problem it solves, what users can do with it, and what makes it interesting technically. Two sentences max.
+> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
 
 ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -174,23 +208,19 @@ const sahil: Developer = {
 
 ---
 
-> 💡 _Replace each placeholder above with your actual pinned repo name, link, description, and tech badges._
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilArate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilArate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilArate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilArate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SahilArate&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SahilArate&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilArate&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilArate&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
@@ -198,7 +228,7 @@ const sahil: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&margin-w=6&margin-h=6&column=4&row=2"/>
 </div>
 
 ---
@@ -218,7 +248,7 @@ const sahil: Developer = {
 ## 💭 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 ---
@@ -228,27 +258,38 @@ const sahil: Developer = {
 <div align="center">
 
 I'm actively looking for **SDE / Full-Stack / Backend** roles and love connecting with fellow builders.
-
 **Drop me a message — I reply fast! 🚀**
 
 <a href="https://www.linkedin.com/in/sahil-arate-ba9a14254/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://sahil-portfolio-orpin.vercel.app">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
+<!-- FOOTER ANIMATION — stable GitHub CDN, never breaks -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Wave animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
 
+<!-- FOOTER SVG WAVE — pure inline SVG, no external service -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:3B82F6&height=100&section=footer&animation=fadeIn" />
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#06B6D4"/>
+      <stop offset="50%"  stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,30 C150,60 300,0 450,30 C600,60 750,0 900,30 L900,80 L0,80 Z" fill="url(#wave)" fill-opacity="0.85"/>
+  <path d="M0,45 C150,20 300,70 450,45 C600,20 750,70 900,45 L900,80 L0,80 Z" fill="url(#wave)" fill-opacity="0.5"/>
+</svg>
 </div>
 
 <div align="center">

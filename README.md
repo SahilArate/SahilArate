@@ -155,17 +155,6 @@ const sahil: Developer = {
 
 ---
 
-### 📌 [YOUR-REPO-4](https://github.com/SahilArate/YOUR-REPO-4) — one-line tagline here
-
-> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
-
-![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -186,7 +175,7 @@ const sahil: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&margin-w=6&margin-h=6&column=4&row=2"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&margin-w=6&column=-1"/>
 </div>
 
 ---

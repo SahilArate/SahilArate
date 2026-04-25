@@ -1,40 +1,48 @@
-<!-- HEADER BANNER — pure inline SVG, no external service, always renders -->
+<!-- ═══════════════════════════════════════════════
+     HEADER — pure inline SVG with coder animation
+═══════════════════════════════════════════════ -->
 <div align="center">
-<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="hbg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#0f0c29"/>
       <stop offset="50%"  stop-color="#302b63"/>
       <stop offset="100%" stop-color="#24243e"/>
     </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="hline" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#3B82F6"/>
       <stop offset="100%" stop-color="#8B5CF6"/>
     </linearGradient>
   </defs>
-  <!-- background -->
-  <rect width="900" height="180" rx="16" fill="url(#bg)"/>
-  <!-- top accent line -->
-  <rect y="0" width="900" height="4" rx="2" fill="url(#line)"/>
-  <!-- bottom accent line -->
-  <rect y="176" width="900" height="4" rx="2" fill="url(#line)"/>
-  <!-- decorative circles -->
-  <circle cx="820" cy="40"  r="55" fill="#3B82F6" fill-opacity="0.08"/>
-  <circle cx="80"  cy="140" r="45" fill="#8B5CF6" fill-opacity="0.08"/>
-  <circle cx="450" cy="160" r="30" fill="#06B6D4" fill-opacity="0.06"/>
+  <rect width="860" height="200" rx="16" fill="url(#hbg)"/>
+  <rect y="0"   width="860" height="4" rx="2" fill="url(#hline)"/>
+  <rect y="196" width="860" height="4" rx="2" fill="url(#hline)"/>
+  <circle cx="790" cy="45"  r="60" fill="#3B82F6" fill-opacity="0.07"/>
+  <circle cx="70"  cy="155" r="50" fill="#8B5CF6" fill-opacity="0.07"/>
   <!-- name -->
-  <text x="450" y="82" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="700" fill="#FFFFFF" letter-spacing="2">Sahil Arate</text>
-  <!-- subtitle -->
-  <text x="450" y="118" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="400" fill="#94A3B8">Full-Stack Developer  •  Cloud &amp; DevOps Enthusiast  •  Java + TypeScript</text>
-  <!-- bottom tag -->
-  <text x="450" y="152" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#3B82F6">{ building scalable systems · exploring AI · open to opportunities }</text>
+  <text x="430" y="80" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif"
+        font-size="46" font-weight="700" fill="#FFFFFF" letter-spacing="2">Sahil Arate</text>
+  <!-- role line -->
+  <text x="430" y="118" text-anchor="middle"
+        font-family="'Segoe UI',Arial,sans-serif"
+        font-size="16" fill="#94A3B8">Full-Stack Developer  •  Cloud &amp; DevOps Enthusiast  •  Java + TypeScript</text>
+  <!-- monospace tag -->
+  <text x="430" y="155" text-anchor="middle"
+        font-family="'Courier New',monospace"
+        font-size="13" fill="#3B82F6">{ building scalable systems · exploring AI · open to opportunities }</text>
 </svg>
+
+<!-- CODER ANIMATION — permanent GitHub CDN URLs, never expire -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coder animation"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=620&lines=Java+%2B+TypeScript+Full-Stack+Developer+%E2%98%95;Building+Scalable+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;Kafka+%7C+Docker+%7C+AWS+%7C+Microservices+%F0%9F%9A%80;Exploring+AI+%26+LLM+Integration+%F0%9F%A4%96;Open+to+Exciting+SDE+Opportunities+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=620&lines=Java+%2B+TypeScript+Full-Stack+Developer+%E2%98%95;Building+Scalable+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;Kafka+%7C+Docker+%7C+AWS+%7C+Microservices+%F0%9F%9A%80;Exploring+AI+%26+LLM+Integration+%F0%9F%A4%96;Open+to+Exciting+SDE+Opportunities+%F0%9F%91%8B" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -155,6 +163,53 @@ const sahil: Developer = {
 
 ---
 
+## 🚀 Featured Projects
+
+### 📌 [YOUR-REPO-1](https://github.com/SahilArate/YOUR-REPO-1) — one-line tagline here
+
+> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
+
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📌 [YOUR-REPO-2](https://github.com/SahilArate/YOUR-REPO-2) — one-line tagline here
+
+> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
+
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 📌 [YOUR-REPO-3](https://github.com/SahilArate/YOUR-REPO-3) — one-line tagline here
+
+> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
+
+![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 📌 [YOUR-REPO-4](https://github.com/SahilArate/YOUR-REPO-4) — one-line tagline here
+
+> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
+
+![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -172,10 +227,50 @@ const sahil: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
+<!-- Pure inline SVG — zero external API, always visible -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&margin-w=6&column=-1"/>
+<svg width="860" height="130" viewBox="0 0 860 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="abg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#1a1b2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card backgrounds -->
+  <rect x="0"   y="0" width="130" height="120" rx="12" fill="url(#abg)" stroke="#3B82F6" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="145" y="0" width="130" height="120" rx="12" fill="url(#abg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="290" y="0" width="130" height="120" rx="12" fill="url(#abg)" stroke="#10B981" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="435" y="0" width="130" height="120" rx="12" fill="url(#abg)" stroke="#F59E0B" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="580" y="0" width="130" height="120" rx="12" fill="url(#abg)" stroke="#06B6D4" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="725" y="0" width="130" height="120" rx="12" fill="url(#abg)" stroke="#EC4899" stroke-width="1" stroke-opacity="0.4"/>
+
+  <!-- trophy icons (unicode star / cup shapes via text) -->
+  <text x="65"  y="52" text-anchor="middle" font-size="34">🏆</text>
+  <text x="210" y="52" text-anchor="middle" font-size="34">⭐</text>
+  <text x="355" y="52" text-anchor="middle" font-size="34">🔥</text>
+  <text x="500" y="52" text-anchor="middle" font-size="34">💡</text>
+  <text x="645" y="52" text-anchor="middle" font-size="34">🚀</text>
+  <text x="790" y="52" text-anchor="middle" font-size="34">☁️</text>
+
+  <!-- labels -->
+  <text x="65"  y="78" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#3B82F6">Multi-Language</text>
+  <text x="210" y="78" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#8B5CF6">Commits</text>
+  <text x="355" y="78" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#10B981">Streak</text>
+  <text x="500" y="78" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#F59E0B">Problem Solver</text>
+  <text x="645" y="78" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#06B6D4">Open Source</text>
+  <text x="790" y="78" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#EC4899">Cloud Builder</text>
+
+  <!-- sub-labels -->
+  <text x="65"  y="97" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#64748B">Java · Go · TS</text>
+  <text x="210" y="97" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#64748B">100+ commits</text>
+  <text x="355" y="97" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#64748B">Daily builder</text>
+  <text x="500" y="97" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#64748B">DSA · Systems</text>
+  <text x="645" y="97" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#64748B">Contributor</text>
+  <text x="790" y="97" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#64748B">AWS · Docker</text>
+</svg>
 </div>
 
 ---
@@ -219,23 +314,22 @@ I'm actively looking for **SDE / Full-Stack / Backend** roles and love connectin
 
 ---
 
-<!-- FOOTER ANIMATION — stable GitHub CDN, never breaks -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
 
-<!-- FOOTER SVG WAVE — pure inline SVG, no external service -->
+<!-- FOOTER WAVE — pure inline SVG -->
 <div align="center">
-<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="wv" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#06B6D4"/>
       <stop offset="50%"  stop-color="#8B5CF6"/>
       <stop offset="100%" stop-color="#3B82F6"/>
     </linearGradient>
   </defs>
-  <path d="M0,30 C150,60 300,0 450,30 C600,60 750,0 900,30 L900,80 L0,80 Z" fill="url(#wave)" fill-opacity="0.85"/>
-  <path d="M0,45 C150,20 300,70 450,45 C600,20 750,70 900,45 L900,80 L0,80 Z" fill="url(#wave)" fill-opacity="0.5"/>
+  <path d="M0,30 C150,60 300,0 450,30 C600,60 750,0 860,30 L860,80 L0,80 Z" fill="url(#wv)" fill-opacity="0.85"/>
+  <path d="M0,45 C150,20 300,70 450,45 C600,20 750,70 860,45 L860,80 L0,80 Z" fill="url(#wv)" fill-opacity="0.4"/>
 </svg>
 </div>
 

@@ -155,48 +155,6 @@ const sahil: Developer = {
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- ═══════════════════════════════════════════════════════════
-  Replace YOUR-REPO-X with your actual pinned repo names.
-  Fill in the tagline and description from each repo.
-  Swap badge stacks to match the real tech you used.
-═══════════════════════════════════════════════════════════ -->
-
-### 📌 [YOUR-REPO-1](https://github.com/SahilArate/YOUR-REPO-1) — one-line tagline here
-
-> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
-
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
----
-
-### 📌 [YOUR-REPO-2](https://github.com/SahilArate/YOUR-REPO-2) — one-line tagline here
-
-> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
-
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 📌 [YOUR-REPO-3](https://github.com/SahilArate/YOUR-REPO-3) — one-line tagline here
-
-> What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.
-
-![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
 ### 📌 [YOUR-REPO-4](https://github.com/SahilArate/YOUR-REPO-4) — one-line tagline here
 
 > What problem does it solve? What can a user do with it? Keep it to 2 sharp sentences focused on impact.

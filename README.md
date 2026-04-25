@@ -1,129 +1,130 @@
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi, I'm Sahil Arate
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Passionate+Java+Developer+%E2%98%95;Aspiring+Full-Stack+Engineer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%92%A1;Exploring+Innovation+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=header&text=Sahil%20Arate&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJxeWsxbTJ5MzN5aTU3ZGZ6Mm5qOXA4a3oya2RnNmE4eGZ6dmQ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
+<div align="center">
+  
+  ### 👨‍💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🚀 Tech Explorer
+  
+  🌐 **[Visit My Portfolio](https://sahil-portfolio-orpin.vercel.app)** 🌐
+  
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=580&lines=Full-Stack+Developer+%7C+Java+%2B+TypeScript;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable%2C+AI-Ready+Systems+%F0%9F%9A%80;Open+to+Exciting+Opportunities+%F0%9F%91%8B" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-arate-ba9a14254/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://sahil-portfolio-orpin.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arate_sahil/)
-[![Profile Views](https://komarev.com/ghpvc/?username=SahilArate&label=Profile+Views&color=3B82F6&style=for-the-badge)](https://github.com/SahilArate)
-
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-arate-ba9a14254/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arate_sahil/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sahil-portfolio-orpin.vercel.app))
+  
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-```typescript
-const sahil: Developer = {
-  name:        "Sahil Arate",
-  role:        "Full-Stack Developer",
-  location:    "India 🇮🇳",
-  languages:   ["Java", "TypeScript", "JavaScript", "Go", "C", "SQL"],
-  frontend:    ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
-  backend:     ["Node.js", "Express.js", "Go", "Spring Boot"],
-  databases:   ["MongoDB", "MySQL", "SQLite"],
-  devOps:      ["Docker", "AWS", "Linux", "Git", "Kafka"],
-  tools:       ["Figma", "Arduino"],
-  currentFocus: "Scalable cloud-native apps + AI integration",
-  openTo:      "Full-time SDE roles & exciting collaborations 🚀",
+```javascript
+const sahil = {
+    role: "Full Stack Developer",
+    code: ["Java", "JavaScript", "C", "SQL"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "Typescript", "HTML5", "CSS3", "JavaScript"],
+        backEnd: ["Node.js", "Express", "Go"],
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        cloud: ["AWS Cloud Computing"],
+        devOps: ["Docker", "AWS", "Linux", "Git"],
+        tools: ["Kafka", "Arduino", "Figma"]
+    },
+    currentFocus: "Building scalable cloud-based full-stack applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
+
 ```
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🔥 What I'm Up To
+
+- 🔭 Building innovative projects with **Java & Spring Boot**
+- 🌱 Learning **Cloud Architecture** & **Microservices**
+- 💡 Exploring **System Design** & **DSA**
+- 🎯 Contributing to **Open Source**
+- 🚀 Mastering **DevOps** & **CI/CD**
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</p>
 
-**Frontend**
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" >
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" >
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-**Backend & Messaging**
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-> 💡 _Click the project names to explore the repos_
-
-### 🤖 [Project Name 1](https://github.com/SahilArate) — AI-Powered RAG Chatbot _(Coming Soon)_
-> Full-stack app with React + FastAPI + LangChain + Pinecone. Users chat with any uploaded document using semantic search and GPT-4.
-
-`Next.js` `FastAPI` `LangChain` `Pinecone` `OpenAI` `Docker` `AWS`
-
----
-
-### 📊 [Project Name 2](https://github.com/SahilArate) — Real-Time Analytics Dashboard _(Coming Soon)_
-> Event-driven dashboard built with Kafka + Node.js + React. Processes 10k+ events/sec with live chart updates.
-
-`React` `Node.js` `Apache Kafka` `MongoDB` `Docker` `WebSockets`
-
----
-
-### ⚙️ [Project Name 3](https://github.com/SahilArate) — Microservices E-Commerce Platform _(Coming Soon)_
-> Scalable e-commerce backend using Go microservices, JWT auth, and AWS deployment with Docker.
-
-`Go` `Node.js` `MySQL` `Docker` `AWS` `REST APIs` `JWT`
-
----
-
-> ⭐ _Replace placeholders above with your real projects — the structure is ready!_
+### 🎨 Design & Other Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SahilArate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" alt="Sahil's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilArate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilArate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sahil's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilArate&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilArate&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=SahilArate&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilArate&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -131,44 +132,49 @@ const sahil: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="Trophies" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&row=2&column=4" />
 </div>
 
 ---
 
-## 🌱 Currently Learning & Building
-
-| Area | What I'm Exploring |
-|---|---|
-| 🤖 AI Integration | LangChain, RAG pipelines, OpenAI APIs |
-| ☁️ Cloud Architecture | AWS services, microservices, serverless |
-| 🏗️ System Design | Distributed systems, scalability patterns |
-| ⚡ Backend Performance | Go concurrency, Kafka event streaming |
-| 🔧 DevOps | CI/CD pipelines, GitHub Actions, Kubernetes basics |
 
 ---
 
-## 📫 Let's Connect
+## 📈 Contribution Graph
 
 <div align="center">
-
-I'm actively looking for **SDE / Full-Stack / Backend** roles and love connecting with fellow builders.
-
-**Drop me a message — I reply fast! 🚀**
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-arate-ba9a14254/)
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://sahil-portfolio-orpin.vercel.app)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilArate&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
 ---
 
+
+
+## 💭 Random Dev Quote
+
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=100&section=footer&animation=fadeIn" />
+---
 
-<sub>⭐ <b>If you find my work interesting, star a repo — it keeps me motivated!</b> ⭐</sub>
 
+
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SahilArate&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h3>💬 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<div align="center">
+  <b>⭐ Show some love by starring my repositories! ⭐</b>
 </div>

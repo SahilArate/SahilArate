@@ -20,7 +20,7 @@
   <rect y="196" width="860" height="4" rx="2" fill="url(#hline)"/>
   <circle cx="790" cy="45"  r="60" fill="#3B82F6" fill-opacity="0.07"/>
   <circle cx="70"  cy="155" r="50" fill="#8B5CF6" fill-opacity="0.07"/>
-  <text x="430" y="155" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#3B82F6">{ building scalable systems · exploring AI · open to opportunities }</text>
+
 </svg>
 
 <br/>

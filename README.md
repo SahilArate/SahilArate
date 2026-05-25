@@ -20,8 +20,6 @@
   <rect y="196" width="860" height="4" rx="2" fill="url(#hline)"/>
   <circle cx="790" cy="45"  r="60" fill="#3B82F6" fill-opacity="0.07"/>
   <circle cx="70"  cy="155" r="50" fill="#8B5CF6" fill-opacity="0.07"/>
-  <text x="430" y="80" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="46" font-weight="700" fill="#FFFFFF" letter-spacing="2">Sahil Arate</text>
-  <text x="430" y="118" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#94A3B8">Full-Stack Developer  •  Cloud &amp; DevOps Enthusiast  •  Java + TypeScript</text>
   <text x="430" y="155" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#3B82F6">{ building scalable systems · exploring AI · open to opportunities }</text>
 </svg>
 

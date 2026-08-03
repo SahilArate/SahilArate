@@ -27,12 +27,14 @@
 
 </div>
 
-<br/>
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+Next.js+%2B+FastAPI+%F0%9F%9A%80;Building+AI-Powered+%26+Full-Stack+Apps+%F0%9F%A4%96;Final-Year+CSE+Student+%40+KLS+GIT+%F0%9F%8E%93;Open+to+SDE+%2F+Full-Stack+Internships+%F0%9F%91%8B" alt="Typing SVG"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3ASahilArate%2Btype%3Apr&label=Total%20PRs&query=%24.total_count&color=3B82F6&style=for-the-badge" alt="Total PRs"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3ASahilArate%2Btype%3Apr%2Bis%3Amerged&label=Merged%20PRs&query=%24.total_count&color=22c55e&style=for-the-badge" alt="Merged PRs"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3ASahilArate%2Btype%3Aissue&label=Issues%20Opened&query=%24.total_count&color=8B5CF6&style=for-the-badge" alt="Issues Opened"/>
 </div>
-
 <br/>
 
 <div align="center">

@@ -114,6 +114,10 @@ I'm also an open source contributor to **cal.com** and **Supabase**, and I won 1
 Autonomous data orchestrator built with LangGraph, coordinating 5 specialized agents over a typed StateGraph to turn plain-English input into structured enterprise schedules. Streaming backend on FastAPI + WebSockets, with semantic context tracking via pgvector and OpenAI embeddings — cut manual adjustments by 40%.
 `Python` `FastAPI` `LangGraph` `LangChain` `WebSockets` `PostgreSQL` `Redis` `Next.js` `Docker`
 
+### 🧾 Zamp Invoice Assistant — AI Invoice-to-PO Decision Engine
+Automated AP system where an LLM handles extraction only — a fully deterministic rule engine independently decides APPROVE/FLAG/REJECT. Matches invoices against POs at both header and line-item level (fuzzy matching via RapidFuzz), with OCR fallback for scanned PDFs and a complete auditable reasoning trail for every decision.
+`Python` `FastAPI` `Pydantic` `Groq LLM` `Tesseract OCR` `RapidFuzz` `Next.js` `TypeScript` `Docker`
+
 ### 🔎 QueryGraph — Object-Relational Data Intelligence Engine
 Analytical intelligence pipeline that maps relational database architecture into visual knowledge graphs, converting plain-text queries into optimized SQL. Dual-database sync between PostgreSQL and Neo4j via SSE streaming, speeding up anomaly discovery by 50%.
 `Python` `FastAPI` `PostgreSQL (Neon)` `Neo4j AuraDB` `Cytoscape.js` `Next.js` `Docker`

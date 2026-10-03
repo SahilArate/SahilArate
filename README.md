@@ -51,18 +51,20 @@
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
-I'm **Sahil Arate**, a Computer Science Engineer. I build full-stack and agentic AI applications, and I've worked as a Full Stack Developer Intern at **SuperMentr**, a Full Stack Web Development Intern at **Prodigy Infotech**, and a Cloud Security Intern at **Eyesec Cyber Security Solutions**.
+I'm **Sahil Arate**, a Computer Science Engineer who builds full-stack and agentic AI systems — from production-grade multi-agent orchestrators to AI-powered decision engines that actually ship.
 
-I'm also an open source contributor to **cal.com** and **Supabase**, and I won 1st Prize at a National Level IoT Hackathon for an end-to-end RFID attendance system.
+I currently work as a **Software Engineer at Seratek Systems**, and previously interned as a Full Stack Developer at **SuperMentr**, a Full Stack Web Development Intern at **Prodigy Infotech**, and a Cloud Security Intern at **Eyesec Cyber Security Solutions**.
 
-🎯 **Currently:** looking for full-time SDE / Full-Stack Developer roles
+I'm an open source contributor to **cal.com** and **Supabase**, and I won **1st Prize at a National Level IoT Hackathon** for an end-to-end RFID attendance system.
+
+🎯 **Currently:** open to full-time SDE / Full-Stack Developer opportunities
 🛠️ **I work with:** Python, TypeScript, Go, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, AWS, Docker, Kubernetes
-🤖 **I like building:** agentic AI systems — LangGraph orchestrators, RAG pipelines, knowledge-graph tools
+🤖 **I like building:** agentic AI systems — LangGraph orchestrators, RAG pipelines, knowledge-graph tools, and deterministic decision engines that keep AI honest
 📫 **Reach out:** always happy to connect about roles, collaborations, or open source
 
+---
 ---
 
 ## 🛠️ Skills

@@ -60,7 +60,7 @@ I currently work as a **Software Engineer at Seratek Systems**, and previously i
 I'm an open source contributor to **cal.com** and **Supabase**, and I won **1st Prize at a National Level IoT Hackathon** for an end-to-end RFID attendance system.
 
 🎯 **Currently:** open to full-time SDE / Full-Stack Developer opportunities
-🛠️ **I work with:** Python, TypeScript, Go, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, AWS, Docker, Kubernetes
+🛠️ **I work with:** Python, TypeScript, Go, React, Next.js, FastAPI, Node.js, NestJS, PostgreSQL, MongoDB, AWS, Docker, Kubernetes
 🤖 **I like building:** agentic AI systems — LangGraph orchestrators, RAG pipelines, knowledge-graph tools, and deterministic decision engines that keep AI honest
 📫 **Reach out:** always happy to connect about roles, collaborations, or open source
 
@@ -83,6 +83,7 @@ I'm an open source contributor to **cal.com** and **Supabase**, and I won **1st 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
 <br/><br/>
 <b>AI & Automation</b><br/>

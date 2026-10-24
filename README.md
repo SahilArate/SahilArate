@@ -27,9 +27,6 @@
 
 </div>
 
-
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3ASahilArate%2Btype%3Apr&label=Total%20PRs&query=%24.total_count&color=3B82F6&style=for-the-badge" alt="Total PRs"/>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3ASahilArate%2Btype%3Apr%2Bis%3Amerged&label=Merged%20PRs&query=%24.total_count&color=22c55e&style=for-the-badge" alt="Merged PRs"/>
@@ -59,9 +56,9 @@ I currently work as a **Software Engineer at Seratek Systems**, and previously i
 
 I'm an open source contributor to **cal.com** and **Supabase**, and I won **1st Prize at a National Level IoT Hackathon** for an end-to-end RFID attendance system.
 
-🎯 **Currently:** open to full-time SDE / Full-Stack Developer opportunities
-🛠️ **I work with:** Python, TypeScript, Go, React, Next.js, FastAPI, Node.js, NestJS, PostgreSQL, MongoDB, AWS, Docker, Kubernetes
-🤖 **I like building:** agentic AI systems — LangGraph orchestrators, RAG pipelines, knowledge-graph tools, and deterministic decision engines that keep AI honest
+🎯 **Currently:** open to full-time SDE / Full-Stack Developer opportunities  
+🛠️ **I work with:** Python, TypeScript, Go, React, Next.js, FastAPI, Node.js, NestJS, PostgreSQL, MongoDB, AWS, Docker, Kubernetes  
+🤖 **I like building:** agentic AI systems — LangGraph orchestrators, RAG pipelines, knowledge-graph tools, and deterministic decision engines that keep AI honest  
 📫 **Reach out:** always happy to connect about roles, collaborations, or open source
 
 ---
@@ -114,27 +111,39 @@ I'm an open source contributor to **cal.com** and **Supabase**, and I won **1st 
 ## 🚀 Projects
 
 ### 📅 [WeeklyAI — Distributed Multi-Agent Data Orchestrator](https://github.com/SahilArate/Multi-agent-AI-weekly-planner)
-Autonomous data orchestrator built with LangGraph, coordinating 5 specialized agents over a typed StateGraph to turn plain-English input into structured enterprise schedules. Streaming backend on FastAPI + WebSockets, with semantic context tracking via pgvector and OpenAI embeddings — cut manual adjustments by 40%.
+Autonomous data orchestrator built with LangGraph, coordinating 5 specialized agents over a typed StateGraph to turn plain-English input into structured enterprise schedules. Streaming backend on FastAPI + WebSockets, with semantic context tracking via pgvector and OpenAI embeddings — cut manual adjustments by 40%.  
 `Python` `FastAPI` `LangGraph` `LangChain` `WebSockets` `PostgreSQL` `Redis` `Next.js` `Docker`
 
 ### 🧾 [Zamp Invoice Assistant — AI Invoice-to-PO Decision Engine](https://github.com/SahilArate/zamp_invoice_assistant)
-Automated AP system where an LLM handles extraction only — a fully deterministic rule engine independently decides APPROVE/FLAG/REJECT. Matches invoices against POs at both header and line-item level (fuzzy matching via RapidFuzz), with OCR fallback for scanned PDFs and a complete auditable reasoning trail for every decision.
+Automated AP system where an LLM handles extraction only — a fully deterministic rule engine independently decides APPROVE/FLAG/REJECT. Matches invoices against POs at both header and line-item level (fuzzy matching via RapidFuzz), with OCR fallback for scanned PDFs and a complete auditable reasoning trail for every decision.  
 `Python` `FastAPI` `Pydantic` `Groq LLM` `Tesseract OCR` `RapidFuzz` `Next.js` `TypeScript` `Docker`
 
 ### 🔎 [QueryGraph — Object-Relational Data Intelligence Engine](https://github.com/SahilArate/QueryGraph-LLM-Powered-Data-Intelligence)
-Analytical intelligence pipeline that maps relational database architecture into visual knowledge graphs, converting plain-text queries into optimized SQL. Dual-database sync between PostgreSQL and Neo4j via SSE streaming, speeding up anomaly discovery by 50%.
+Analytical intelligence pipeline that maps relational database architecture into visual knowledge graphs, converting plain-text queries into optimized SQL. Dual-database sync between PostgreSQL and Neo4j via SSE streaming, speeding up anomaly discovery by 50%.  
 `Python` `FastAPI` `PostgreSQL (Neon)` `Neo4j AuraDB` `Cytoscape.js` `Next.js` `Docker`
 
 ### 🧠 [Codekeeper](https://github.com/SahilArate/cognee_hackathon-)
-Ask questions about a legacy codebase like you were there when it was written. Built for the WeMakeDevs × Cognee Hackathon — ingests source code, git history, and docs into a Cognee knowledge graph so you can query *why* code was written the way it was.
+Ask questions about a legacy codebase like you were there when it was written. Built for the WeMakeDevs × Cognee Hackathon — ingests source code, git history, and docs into a Cognee knowledge graph so you can query *why* code was written the way it was.  
 `Next.js` `TypeScript` `FastAPI` `Cognee` `React Flow` `Vercel` `Render`
 
 ---
 
-## 🏆 Trophies
+## 🏆 Trophies & Stats
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilArate&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilArate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
 ---
@@ -143,7 +152,7 @@ Ask questions about a legacy codebase like you were there when it was written. B
 
 <div align="center">
 
-I'm actively looking for **SDE / Full-Stack** roles and love connecting with fellow builders.
+I'm actively looking for **SDE / Full-Stack** roles and love connecting with fellow builders.  
 **Drop me a message I reply fast! 🚀**
 
 <a href="https://www.linkedin.com/in/sahil-arate-ba9a14254/">

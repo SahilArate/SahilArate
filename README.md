@@ -54,7 +54,7 @@ I'm **Sahil Arate**, a Computer Science Engineer who builds full-stack and agent
 
 I currently work as a **Software Engineer at Seratek Systems**, and previously interned as a Full Stack Developer at **SuperMentr**, a Full Stack Web Development Intern at **Prodigy Infotech**, and a Cloud Security Intern at **Eyesec Cyber Security Solutions**. Mainly working at backend with FastAPI and Nest.
 
-
+i do open source contribution i have merged PRs in **Aapwrite**
 🎯 **Currently:** open to full-time SDE / Full-Stack Developer opportunities  
 🛠️ **I work with:** Python, Javascript, Nestjs, TypeScript, Go, React, Next.js, FastAPI, Node.js, NestJS, PostgreSQL, MongoDB, AWS, Docker, Kubernetes  
 🤖 **I like building:** agentic AI systems, Langchain,  LangGraph orchestrators, RAG pipelines, LLM, knowledge-graph tools, and deterministic decision engines that keep AI honest  

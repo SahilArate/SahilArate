@@ -131,11 +131,8 @@ Ask questions about a legacy codebase like you were there when it was written. B
 
 ---
 
-## 🏆 Trophies & Stats
+## Contributions and streak
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
-</div>
 
 <br/>
 
@@ -144,10 +141,6 @@ Ask questions about a legacy codebase like you were there when it was written. B
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilArate&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</div>
 
 ---
 

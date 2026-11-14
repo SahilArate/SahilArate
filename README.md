@@ -134,19 +134,19 @@ Ask questions about a legacy codebase like you were there when it was written. B
 ## 🏆 Trophies & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilArate&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilArate&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SahilArate&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilArate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilArate&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 ---

@@ -50,16 +50,51 @@
 ---
 ## 🧑‍💻 About Me
 
-I'm **Sahil Arate**, a Computer Science Engineer who builds full-stack and agentic AI systems — from production-grade multi-agent orchestrators to AI-powered decision engines that actually ship.
+<div align="center">
 
-I currently work as a **Software Engineer at Seratek Systems**, and previously interned as a Full Stack Developer at **SuperMentr**, a Full Stack Web Development Intern at **Prodigy Infotech**, and a Cloud Security Intern at **Eyesec Cyber Security Solutions**. Mainly working at backend with FastAPI and Nest.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Seratek+Systems;Full-Stack+%26+Agentic+AI+Builder;LangGraph+%7C+FastAPI+%7C+NestJS+%7C+Next.js;Building+AI+that+actually+ships+%F0%9F%9A%80" alt="Typing SVG"/>
 
-🎯 **Currently:** open to full-time SDE / Full-Stack Developer opportunities  
-🛠️ **I work with:** Python, Javascript, Nestjs, TypeScript, Go, React, Next.js, FastAPI, Node.js, NestJS, PostgreSQL, MongoDB, AWS, Docker, Kubernetes  
-🤖 **I like building:** agentic AI systems, Langchain,  LangGraph orchestrators, RAG pipelines, LLM, knowledge-graph tools, and deterministic decision engines that keep AI honest  
-📫 **Reach out:** always happy to connect about roles, collaborations, or open source
+</div>
 
----
+<br/>
+
+Hi, I'm **Sahil Arate** 👋, a Computer Science Engineer who builds **full-stack and agentic AI systems**, from production-grade multi-agent orchestrators to deterministic decision engines that keep AI honest.
+
+My core strength is the **backend**: designing clean, scalable APIs with **FastAPI** and **NestJS**, and wiring them to LLM-powered workflows using **LangChain** and **LangGraph**.
+
+### 💼 Experience
+
+| Role | Company | Focus |
+|:--|:--|:--|
+| 🟢 **Software Engineer** *(Current)* | **Seratek Systems** | Backend engineering with FastAPI & NestJS |
+| Full Stack Developer Intern | **SuperMentr** | End-to-end web application development |
+| Full Stack Web Development Intern | **Prodigy Infotech** | Frontend and backend web development |
+| Cloud Security Intern | **Eyesec Cyber Security Solutions** | Cloud security and AWS fundamentals |
+
+### 🧭 At a Glance
+
+| | |
+|:--|:--|
+| 🎯 **Currently** | Open to full-time **SDE / Full-Stack Developer** roles |
+| ⚙️ **Backend** | Python · FastAPI · TypeScript · NestJS · Node.js · Go |
+| 🎨 **Frontend** | React · Next.js · TypeScript |
+| 🗄️ **Data** | PostgreSQL · MongoDB · Neo4j · pgvector · Redis |
+| ☁️ **Cloud & DevOps** | AWS · Docker · Kubernetes · CI/CD |
+| 🤖 **AI Focus** | Multi-agent systems · LangChain · LangGraph · RAG pipelines · LLMs · Knowledge graphs |
+
+### 🔥 What I Love Building
+
+- 🧩 **Multi-agent orchestrators** that turn plain-English input into structured, real-world output
+- 📚 **RAG pipelines and knowledge-graph tools** that make complex data easy to query
+- ⚖️ **Deterministic decision engines** where the LLM extracts and rules decide, so every outcome is auditable
+- ☁️ **Cloud-aware AI agents** that explore and explain infrastructure conversationally
+
+### 📫 Let's Collaborate
+
+I'm always happy to talk about **roles, collaborations, or open source**. If you're building something with AI agents or modern backends, reach out!
+
+> 💡 *"Make AI useful, reliable, and honest, then ship it."*
+
 ---
 
 ## 🛠️ Skills

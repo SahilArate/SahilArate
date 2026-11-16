@@ -66,7 +66,7 @@ My core strength is the **backend**: designing clean, scalable APIs with **FastA
 
 | Role | Company | Focus |
 |:--|:--|:--|
-| 🟢 **Software Engineer** *(Current)* | **Seratek Systems** | Backend engineering with FastAPI & NestJS |
+| 🟢 **Software Engineer Intern** *(Current)* | **Seratek Systems** | Backend engineering with FastAPI & NestJS |
 | Full Stack Developer Intern | **SuperMentr** | End-to-end web application development |
 | Full Stack Web Development Intern | **Prodigy Infotech** | Frontend and backend web development |
 | Cloud Security Intern | **Eyesec Cyber Security Solutions** | Cloud security and AWS fundamentals |

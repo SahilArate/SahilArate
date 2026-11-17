@@ -58,7 +58,7 @@
 
 <br/>
 
-Hi, I'm **Sahil Arate** 👋, a Computer Science Engineer who builds **full-stack and agentic AI systems**, from production-grade multi-agent orchestrators to deterministic decision engines that keep AI honest.
+Hi, I'm **Sahil Arate**, a Computer Science Engineer who builds **full-stack and agentic AI systems**, from production-grade multi-agent orchestrators to deterministic decision engines that keep AI honest.
 
 My core strength is the **backend**: designing clean, scalable APIs with **FastAPI** and **NestJS**, and wiring them to LLM-powered workflows using **LangChain** and **LangGraph**.
 
